@@ -1,7 +1,7 @@
 # gitbasics
 # We hope to show you how to use git and github through carefully planned text and example 
-# ------------------ TABLE OF CONTENTS -----------------------------------------
-    1.0 Introduction to Git 
+# ------------------ TABLE OF CONTENTS ----------
+    1.0 <a href="https://github.com/adebright/gitbasics/">Introduction to Git </a>
     2.0 Initializing a repository 
     3.0 Environments in Git and how to make configuration 
     4.0 Adding files and making commits
