@@ -1,0 +1,1 @@
+let select = (e) => document.querySelector(e)
