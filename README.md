@@ -14,3 +14,4 @@
     12.0 Workflow in git and github
     13.0 Commit Message Convention : CMC
     14.0 Your first projects
+    ----The purpose of this branch is for teaching css and git ----
