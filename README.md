@@ -1,16 +1,41 @@
 # gitbasics
-# We hope to show you how to use git and github through carefully planned text and example 
-# ------------------ TABLE OF CONTENTS ----------
-    1.0 <a href="https://github.com/adebright/gitbasics/">Introduction to Git </a>
-    2.0 Initializing a repository 
-    3.0 Environments in Git and how to make configuration 
-    4.0 Adding files and making commits
-    6.0 Basics of branching 
-    7.0 Logging commit History 
-    8.0 Undoing changes 
-    9.0 Merging 
-    10.0 Stashing and Tagging 
-    11.0 Working with remote repository (github)
-    12.0 Workflow in git and github
-    13.0 Commit Message Convention : CMC
-    14.0 Your first projects
+This repository gitbasics , is maintained for the purpose of teaching others  how to use *git* for version control , and 
+how to work with _github_ during collaboration.
+## ------------------ TABLE OF CONTENTS ----------
+    *[gitbasics](https://github.com/adebright/gitbasics)
+    * Initializing a repository 
+    * Environments in Git and how to make configuration 
+    * Adding files and making commits
+    * Basics of branching 
+    * Logging commit History 
+    * Undoing changes 
+    * Merging 
+    * Stashing and Tagging 
+    * Working with remote repository (github)
+    * Workflow in git and github
+    * Commit Message Convention : CMC
+    * Your first projects 
+### How to get the this repo 
+You can clone , fork , or download this repository.
+To clone , this repository  , do the following : 
+1. issue this command from your command line , `$` git clone repositoryUrl shortName 
+1. Then change directory into the cloned repository 
+To fork this repository , click on the fork icon towards the top-bottom right corner of this repository
+### How to use this repo 
+Use this repo alongside a live practice session by using the examples provided in this repository 
+### Credits 
+I wish to thank all our students , developers , staff , and owners of ACE AFRICA for their continued support
+### Initializing a repository 
+A wise man once said : 
+> What is not tracked 
+> Cannot be measured or maintained 
+#### Environments in Git and how to make configuration 
+Environment      | Description 
+--------------     ------------- 
+Working           | This is the environment were you make changes to your file 
+Staging           | Files within the staging environment are files whose changes will be saved in the next commit 
+Commit             |  
+Follow https://aceafrica.net for more information regarding tech trainings and projects 
+![GitHub Logo](/images/logo.png)
+Format: ![Github logo](https://github.com) 
+### Writing on github gets better with time and practice
