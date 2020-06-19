@@ -37,4 +37,5 @@ Staging           | Files within the staging environment are files whose changes
 Commit             |  
 Follow https://aceafrica.net for more information regarding tech trainings and projects 
 ![GitHub Logo](/images/logo.png)
-Format: ![Github logo](https://github.com)
+Format: ![Github logo](https://github.com) 
+### Writing on github gets better with time and practice
